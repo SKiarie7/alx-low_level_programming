@@ -8,7 +8,7 @@
  * return:always return 0
  *
  **/
-void main(void)
+int main(void)
 {
 int n;
 
