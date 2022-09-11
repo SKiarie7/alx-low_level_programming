@@ -1,10 +1,7 @@
 #include <stdio.h>
 /**
- *
  * main - entry point
- *
- * return: always return 0
- *
+ * Return: always return 0
  **/
 
 int main(void)
